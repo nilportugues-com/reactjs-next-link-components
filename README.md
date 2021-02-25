@@ -1,6 +1,6 @@
 # Buenas prácticas en React: Link Components
 ## Repository contents:
-This is a demo repository for the blog post [Buenas prácticas en React: Link Components](https://nilportugues.com/javascript/buenas-practicas-nextjs-link-components).
+This is a demo repository for the blog post [Buenas prácticas en React: Link Components](https://nilportugues.com/react/buenas-practicas-nextjs-link-components).
 
 ## Installation
 
